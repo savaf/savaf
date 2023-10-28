@@ -1,13 +1,17 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <h1 align="center">Hi 👋, I'm Sinver Aguilo</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
-	
-<p align="center"><img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/></p>
-<p align="center"><img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="400"/></p>
+
+<div align="left">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/75052ee862cb4fec93a07f33ad8e7da4.png?r=kn5"
+	alt="Sinver Vladimir Aguilo Flores's Dev Card"
+    />
+</div>
+<h2 align="left">A passionate frontend developer from Dominican Republic</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savaf&label=Profile%20views&color=0e75b6&style=flat" alt="savaf" /> </p>
 
-<p align="left"> <a href="https://twitter.com/savafjs" target="blank"><img src="https://img.shields.io/twitter/follow/savafjs?logo=twitter&style=for-the-badge" alt="savafjs" /></a> </p>
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 I’m currently learning *Flutter and Dart*
