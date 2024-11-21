@@ -10,8 +10,6 @@
 </div>
 <h2 align="left">A passionate frontend developer from Dominican Republic</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savaf&label=Profile%20views&color=0e75b6&style=flat" alt="savaf" /> </p>
-
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 I’m currently learning *Flutter and Dart*
